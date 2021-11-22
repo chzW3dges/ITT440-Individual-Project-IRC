@@ -3,3 +3,5 @@
 i already push my client file using terminal but it is not visible here, i don't know why
 
 i just upload using the upload button since it doesn't appear
+
+update: i can push my git already sir, thanks for the yt video!
